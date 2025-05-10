@@ -82,7 +82,7 @@ test-results/
 !.yarn/versions
 .yarnrc.yml
 
-# Parcel (if used)
+# Parcel (if used)s
 .parcel-cache/
 
 # Other
